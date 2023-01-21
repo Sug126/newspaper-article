@@ -1,11 +1,12 @@
 html{
-    min-width: 300px;
+  
     overflow-x: hidden;
     overflow-y: scroll;
     text-rendering: optimizeLegibility;
 }
 
 body{
+    max-width: 75rem;
     font-family: 'open-sans';
     font-size: 1rem;
     font-weight: 400;
